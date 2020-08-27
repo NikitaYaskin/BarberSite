@@ -11,4 +11,7 @@
 	color: white;
 	background-color: gray;
 	opacity: 0.8;
+	border-radius: 15px;
+  padding: 20px;
+	margin: 10px;
 }
