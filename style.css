@@ -4,14 +4,21 @@
 
 .centered, .container {
 	position: absolute;
-	bottom: 70%;
+	bottom: 60%;
 	left: 10%;
 	max-width: 600px;
-	text-align: left;
 	color: white;
 	background-color: gray;
 	opacity: 0.8;
 	border-radius: 15px;
   padding: 20px;
 	margin: 10px;
+}
+
+.centered {
+	text-align: left;
+}
+
+.container {
+	text-align: right;
 }
